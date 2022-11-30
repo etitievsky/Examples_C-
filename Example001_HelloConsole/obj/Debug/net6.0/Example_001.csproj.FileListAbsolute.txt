@@ -1,0 +1,15 @@
+C:\Users\GPN-GEO\Documents\Обучение GeekBrains\Знакомство с языками программирования\Examples\Example001_HelloConsole\bin\Debug\net6.0\Example_001.exe
+C:\Users\GPN-GEO\Documents\Обучение GeekBrains\Знакомство с языками программирования\Examples\Example001_HelloConsole\bin\Debug\net6.0\Example_001.deps.json
+C:\Users\GPN-GEO\Documents\Обучение GeekBrains\Знакомство с языками программирования\Examples\Example001_HelloConsole\bin\Debug\net6.0\Example_001.runtimeconfig.json
+C:\Users\GPN-GEO\Documents\Обучение GeekBrains\Знакомство с языками программирования\Examples\Example001_HelloConsole\bin\Debug\net6.0\Example_001.dll
+C:\Users\GPN-GEO\Documents\Обучение GeekBrains\Знакомство с языками программирования\Examples\Example001_HelloConsole\bin\Debug\net6.0\Example_001.pdb
+C:\Users\GPN-GEO\Documents\Обучение GeekBrains\Знакомство с языками программирования\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example_001.csproj.AssemblyReference.cache
+C:\Users\GPN-GEO\Documents\Обучение GeekBrains\Знакомство с языками программирования\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GPN-GEO\Documents\Обучение GeekBrains\Знакомство с языками программирования\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example_001.AssemblyInfoInputs.cache
+C:\Users\GPN-GEO\Documents\Обучение GeekBrains\Знакомство с языками программирования\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example_001.AssemblyInfo.cs
+C:\Users\GPN-GEO\Documents\Обучение GeekBrains\Знакомство с языками программирования\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example_001.csproj.CoreCompileInputs.cache
+C:\Users\GPN-GEO\Documents\Обучение GeekBrains\Знакомство с языками программирования\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example_001.dll
+C:\Users\GPN-GEO\Documents\Обучение GeekBrains\Знакомство с языками программирования\Examples\Example001_HelloConsole\obj\Debug\net6.0\refint\Example_001.dll
+C:\Users\GPN-GEO\Documents\Обучение GeekBrains\Знакомство с языками программирования\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example_001.pdb
+C:\Users\GPN-GEO\Documents\Обучение GeekBrains\Знакомство с языками программирования\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example_001.genruntimeconfig.cache
+C:\Users\GPN-GEO\Documents\Обучение GeekBrains\Знакомство с языками программирования\Examples\Example001_HelloConsole\obj\Debug\net6.0\ref\Example_001.dll
